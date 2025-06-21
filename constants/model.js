@@ -1,0 +1,4 @@
+export const ZOOM_CONSTS = {
+  INITIAL_ZOOM_DISTANCE: 160,
+  ZOOM_STEP_DISTANCE: 10,
+};
